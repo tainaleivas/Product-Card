@@ -25,7 +25,7 @@
           <td>02</td>
           <td>Product Card</td>
           <td>03/02/2023</td>
-          <td><a href="02">🔗</a></td>
+          <td><a href="https://github.com/tainaleivas/boracodar/tree/main/ProductCard">🔗</a></td>
         </tr>
       </tbody>
     </table>
